@@ -1,0 +1,10 @@
+# Unity generated/cache folders (ignore only these)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+UserSettings/
+
+# Build outputs
+[Bb]uild/
+[Bb]uilds/
