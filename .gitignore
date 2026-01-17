@@ -8,3 +8,9 @@ UserSettings/
 # Build outputs
 [Bb]uild/
 [Bb]uilds/
+
+
+# IDE / generated project files
+.vscode/
+*.csproj
+*.sln
